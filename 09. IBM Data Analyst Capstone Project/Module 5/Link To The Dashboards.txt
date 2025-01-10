@@ -1,0 +1,1 @@
+https://ap2.ca.analytics.ibm.com/bi/?perspective=dashboard&pathRef=.my_folders%2FBuilding%2BDashboards%2BWith%2BIBM%2BCognos%2BAnalytics&action=view&mode=dashboard
